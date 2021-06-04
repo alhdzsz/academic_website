@@ -47,7 +47,11 @@ Let's see if this works! I will try to insert raw html code. It didn't work.
 
 ## HTML
 
- 
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
 
 ## License
 
