@@ -48,9 +48,17 @@ Let's see if this works! I will try to insert raw html code. It didn't work.
 ## HTML
 
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-    This is <strong>raw HTML</strong>, inside Markdown.
-  </p>
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Dr. Alfredo Hernandez Sanchez" />
+
+
+<title>The Reticulate Package</title>
 {{< /rawhtml >}}
 
 ## License
