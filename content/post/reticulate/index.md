@@ -47,8 +47,7 @@ Let's see if this works! I will try to insert raw html code. It didn't work.
 
 ## HTML
 
-{{< rawhtml >}}
-<!DOCTYPE html>
+{{< rawhtml >}}<!DOCTYPE html>
 
 <html>
 
@@ -63,8 +62,7 @@ Let's see if this works! I will try to insert raw html code. It didn't work.
 
 
 <title>The Reticulate Package</title>
-</html>
-{{< /rawhtml >}}
+</html>{{< /rawhtml >}}
 
 ## License
 
