@@ -47,9 +47,7 @@ Let's see if this works!
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-{{
-
-<head>
+{{<head>
 
 <meta charset="utf-8" />
 <meta name="generator" content="pandoc" />
@@ -59,9 +57,7 @@ Let's see if this works!
 <meta name="author" content="Dr. Alfredo Hernandez Sanchez" />
 
 
-<title>The Reticulate Package</title>
-
-}}
+<title>The Reticulate Package</title>}}
 
 
 
