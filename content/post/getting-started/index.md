@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Python and RStudio with Reticulate
+subtitle: This tutorial shows how to use the package reticulate to use python to inside RStudio
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: This tutorial shows how to use reticulate to plot with seaborn inside an R Markdown file and compares the output to ggplot2
 
 # Link this post with a project
 projects: []
@@ -18,27 +18,19 @@ lastmod: "2020-12-13T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
+featured: true
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Python
+- R
+- Reticulate
 
 categories:
-- Demo
-- 教程
+- Tutorial
+- Data Visualization
 ---
 
 </head>
@@ -55,7 +47,7 @@ categories:
 
 
 
-<h1 class="title toc-ignore">The reticulate Package</h1>
+<h1 class="title toc-ignore">The Reticulate Package</h1>
 <h4 class="author">Dr. Alfredo Hernandez Sanchez</h4>
 <h4 class="date">4/2/2021</h4>
 
