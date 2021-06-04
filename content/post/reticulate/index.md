@@ -1,5 +1,5 @@
 ---
-title: [The Reticulate Package Tutorial](https://alhdzsz.netlify.app/post/reticulate/reticulate.html)
+title: The Reticulate Package Tutorial
 subtitle: This is a tutorial on how to reproduce a ggplot2 plot in seaborn using reticulate. 
 
 # Summary for listings and search engines
@@ -18,7 +18,7 @@ lastmod: "2020-12-13T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -43,7 +43,7 @@ categories:
 
 ## Reticulate
 
-Let's see if this works! I will try to insert raw html code. [The Reticulate Package Tutorial](https://alhdzsz.netlify.app/post/reticulate/reticulate.html).
+Let's see if this works! I will try to insert raw html code. Link to the [The Reticulate Package Tutorial](https://alhdzsz.netlify.app/post/reticulate/reticulate.html).
 
 ## License
 
