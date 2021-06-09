@@ -21,9 +21,9 @@ content:
     provider: netlify
     formspree:
       id:
-    netlify:
+    netlify: alhdzsz
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'
