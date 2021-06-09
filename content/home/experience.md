@@ -25,21 +25,16 @@ experience:
   - title: Teaching Fellow
     company: Institut Barcelona d'Estudis Internacionals (IBEI)
     company_url: 'https://www.ibei.org/en'
-    company_logo: ibei.jpg
+    company_logo: ''
     location: Barcelona, Spain
     date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: ''
         
   - title: Global Teaching Fellow
     company: American University of Central Asia
     company_url: 'https://www.auca.kg/'
-    company_logo: auca.jpg
+    company_logo: ''
     location: Bishkek, Kyrgyzstan
     date_start: '2017-09-01'
     date_end: '2018-05-31'
@@ -48,7 +43,7 @@ experience:
   - title: Teaching Fellow
     company: OSCE Academy
     company_url: 'http://www.osce-academy.net/'
-    company_logo: osce.jpg
+    company_logo: ''
     location: Bishkek, Kyrgyzstan
     date_start: '2018-01-01'
     date_end: '2018-05-31'
