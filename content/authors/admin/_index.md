@@ -14,13 +14,14 @@ organizations:
   url: https://www.ibei.org/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in computational approaches to International Relations and Political Economy, especially in the use of Big Data and Machine Learning
 
 # Interests to show in About widget
 interests:
 - Computational Social Science
-- Computational Linguistics
-- Information Retrieval
+- Quantitative Text Analysis
+- International Political Economy
+- Data Visualization
 
 # Education to show in About widget
 education:
@@ -61,7 +62,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alhdzsz@gmail.com"
@@ -70,8 +71,6 @@ email: "alhdzsz@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alfredo Hernandez Sanchez is a Fellow at the Barcelona Institute of International Studies where he teaches courses on Data Visualization, Policy Evaluation and Quantitative Research Methods. His research interests include Computational Social Sciences, Quantitative Text Analysis and International Political Economy. He is currently working on developing transparency metrics using Big Data methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
