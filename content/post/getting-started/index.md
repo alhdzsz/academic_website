@@ -1,10 +1,16 @@
 ---
 title: Python in RStudio with Reticulate
-subtitle: This tutorial shows how to use the package reticulate to use python to inside RStudio
+subtitle: This tutorial shows how to use reticulate to plot with seaborn inside an R Markdown file and compares the output to a ggplot2 plot
 
 # Summary for listings and search engines
-summary: This tutorial shows how to use reticulate to plot with seaborn inside an R Markdown file and compares the output to ggplot2
+summary: This tutorial shows how to use reticulate to plot with seaborn inside an R Markdown file and compares the output to a ggplot2 plot
 
+# Image
+image:
+  caption: 'Image credit: [**Unsplash/David Clode**](https://unsplash.com/photos/vec5yfUvCGs)'
+  focal_point: ""
+  preview_only: false
+  
 # Link this post with a project
 projects: []
 
