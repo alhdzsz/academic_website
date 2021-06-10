@@ -19,5 +19,4 @@ summary: In this chapter we argue that the Covid-19 crisis has highlighted short
 tags:
 - Source Themes
 title: Emergency Procurement: The Role of Big Open Data
-url_pdf: https://www.bloomsburyprofessional.com/uk/public-procurement-regulation-in-a-crisis-9781509943043/
 ---
