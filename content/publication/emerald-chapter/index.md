@@ -16,8 +16,6 @@ publication_types:
 - "6"
 publishDate: "2017-08-22T00:00:00Z"
 summary: In this chapter we explore different sources of sovereign debt crises as opportunistic and myopic behavior by debtor nations, over-consumption of imported goods, credit temptation by lenders eager to allocate savings surpluses, and unexpected consequences of initially seen appropriate policies.
-tags:
-- Source Themes
 title: Sovereign Debt Crisis; Euro Reality
 url_pdf: https://books.emeraldinsight.com/resources/pdfs/chapters/9781787145108-TYPE23-NR2.pdf
 ---
