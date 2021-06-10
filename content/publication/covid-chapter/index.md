@@ -16,7 +16,5 @@ publication_types:
 - "6"
 publishDate: "2021-04-11T00:00:00Z"
 summary: In this chapter we argue that the Covid-19 crisis has highlighted shortcomings in procurement data reporting such as the lack of detailed information on products or their demand and subsequent utilization. 
-tags:
-- Source Themes
 title: Emergency Procurement, The Role of Big Open Data
 ---
