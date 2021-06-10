@@ -1,5 +1,5 @@
 ---
-title: Python and RStudio with Reticulate
+title: Python in RStudio with Reticulate
 subtitle: This tutorial shows how to use the package reticulate to use python to inside RStudio
 
 # Summary for listings and search engines
