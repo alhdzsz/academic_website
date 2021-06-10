@@ -12,7 +12,7 @@ image:
 publication_types:
 - "5"
 links:
-- name: Custom Link
+- name: eBook
   url: https://bookdown.org/alhdzsz/data_viz_ir/
 publishDate: "2021-06-10T00:00:00Z"
 summary: This data visualization with R book is in open review, please feel free to contact me with any comments or questions!
