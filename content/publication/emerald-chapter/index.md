@@ -5,7 +5,7 @@ authors:
 - Julius Horvath
 date: "2017-08-22T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash/Annette Fischer**](https://unsplash.com/photos/QjFZUES9VEM)'
   focal_point: ""
