@@ -114,13 +114,13 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
-    book: true
+    book: false
     project: true
     publication: true
-    event: true
+    event: false
   disqus:
     shortname: 'alhdzsz'
     show_count: true
