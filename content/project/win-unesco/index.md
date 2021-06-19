@@ -16,6 +16,8 @@ links:
   url: https://en.unesco.org/sites/default/files/fazekas.pdf
 - name: Video
   url: http://www.youtube.com/watch?v=L5vucuKdKTk&t=3m33s
+- name: Slides
+  url: https://en.unesco.org/sites/default/files/pres_fazekas.pdf
 summary: We develop a composite Water Integrity Risk Index (WIRI) to identify and assess integrity risks in the urban W&S sector in selected settlements around the world.
 title: Water and Sanitation Sector Integrity Risk Index
 ---
