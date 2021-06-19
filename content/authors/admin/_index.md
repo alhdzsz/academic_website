@@ -14,7 +14,7 @@ organizations:
   url: https://www.ibei.org/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in computational approaches to International Relations and Political Economy, especially in the use of Big Data and Machine Learning
+bio: Quantitative Text Analysis, Data Visualization, Policy Evaluation
 
 # Interests to show in About widget
 interests:
