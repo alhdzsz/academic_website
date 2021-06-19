@@ -2,7 +2,6 @@
 title: Interview with E IR
 summary: Part of a series of interviews with academics and practitioners at an early stage of their career.
 tags:
-- Deep Learning
 date: "2019-02-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
