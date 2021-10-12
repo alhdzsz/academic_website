@@ -3,7 +3,7 @@ title: Transparency in nursing home services, Online appendix
 subtitle: This online appendix contains contains robustness checks and model comparisons for the topic model in the original article.
 
 # Summary for listings and search engines
-summary: This is the online appendix for the article Transparency in nursing home services, a legal requirement and an issue of concern before and during COVID-19 in Spain? which contains robustness checks and model comparisons for the topic model.
+summary: This is the online appendix for the article *Transparency in nursing home services":" a legal requirement and an issue of concern before and during COVID-19 in Spain?* which contains robustness checks and model comparisons for the topic model.
 
 # Image
 image:
