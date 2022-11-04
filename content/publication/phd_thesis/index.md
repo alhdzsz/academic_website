@@ -7,6 +7,7 @@ I argue that Latin American leaders draw on two narratives of the global politic
 
 Subsequently, I analyze two paradigmatic cases from Latin America where a proactive foreign economic policy was pursued informed by these opposing economic narratives. The first is Mexico’s promotion of market mechanisms to reform the international financial architecture under Vicente Fox with the diffusion of Collective Action Clauses and the 2002 Monterrey Consensus. The second considers the politically motivated 2008 Ecuadorian default and Rafael Correa’s denunciation of international financiers.
 
+
 authors:
 - admin
 
