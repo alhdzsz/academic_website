@@ -6,7 +6,7 @@ title: Alfredo Hernandez Sanchez
 superuser: true
 
 # Role/position/tagline
-role: Teaching Fellow
+role: Research Master's in International Studies Coordinator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,6 +71,6 @@ email: "alhdzsz@gmail.com"
 highlight_name: false
 ---
 
-Alfredo Hernandez Sanchez is a Fellow at the Barcelona Institute of International Studies where he teaches courses on Data Visualization, Policy Evaluation and Quantitative Research Methods. His research interests include Computational Social Sciences, Quantitative Text Analysis and International Political Economy. He is currently working on developing transparency metrics using Big Data methods.
+Alfredo Hernandez Sanchez is a Fellow at the Barcelona Institute of International Studies where he teaches courses on Data Visualization, Policy Evaluation and Quantitative Research Methods. His research interests include Computational Social Sciences, Quantitative Text Analysis and International Political Economy. He is currently working on developing transparency metrics using Big Data and on computational approaches to International Relations. He is currently the Research Master's in International Studies Coordinator at IBEI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
