@@ -1,6 +1,13 @@
 ---
 abstract: What drives world leaders to support the international financial system or voice their discontent? How can this be measured? I propose a three-level analytic framework to study proactive stances towards the international regime for sovereign debt, particularly those of emerging-market actors.
 
+
+
+I argue that Latin American leaders draw on two narratives of the global political economy, a) one which characterizes the international monetary and financial system as a zero-sum game which perpetuates economic hierarchies, and b) one which stresses its developmental potential and characterizes it as a positive-sum game. I employ Computational Text Analysis (CTA) methods to measure how often the topic of international finance has been discussed in United Nations General Assembly (UNGA) speeches (1970-2018) and how it has been framed.
+
+
+
+
 authors:
 - admin
 
