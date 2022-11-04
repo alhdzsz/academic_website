@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Master's in International Studies Coordinator
+    company: Institut Barcelona d'Estudis Internacionals (IBEI)
+    company_url: 'https://www.ibei.org/en'
+    company_logo: ''
+    location: Barcelona, Spain
+    date_start: '2022-09-01'
+    date_end: ''
+    description: ''
+    
   - title: Teaching Fellow
     company: Institut Barcelona d'Estudis Internacionals (IBEI)
     company_url: 'https://www.ibei.org/en'
