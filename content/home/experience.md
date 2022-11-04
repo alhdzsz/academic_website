@@ -47,7 +47,7 @@ experience:
     location: Bishkek, Kyrgyzstan
     date_start: '2017-09-01'
     date_end: '2018-05-31'
-    description: Taught several undergraduate courses in the BA in International and Comparative Politics
+    description: ''
     
   - title: Teaching Fellow
     company: OSCE Academy
@@ -56,7 +56,7 @@ experience:
     location: Bishkek, Kyrgyzstan
     date_start: '2018-01-01'
     date_end: '2018-05-31'
-    description: Taught International Political Economy in the MA in Politics and Security.
+    description: ''
 
 design:
   columns: '2'
