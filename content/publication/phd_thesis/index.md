@@ -15,10 +15,10 @@ image:
   focal_point: ""
   preview_only: false
 publication: '*Between Good Faith and Defiance, A Political Economy of Sovereign Debt in Latin America*'
-url_pdf: "thesis_ahs.pdf"
+url_pdf: "uploads/thesis_ahs.pdf"
 publication_short: ""
 publication_types:
-- "6"
+- "7"
 publishDate: "2020-06-11T00:00:00Z"
 summary: I argue that, in the rare instances in which domestic and international politics allow countries that are traditionally rule-takers to break that role, the way in which global financial markets are framed - as promise or peril - shapes their policies towards sovereign borrowing and restructuring.
 title: Between Good Faith and Defiance, A Political Economy of Sovereign Debt in Latin America
