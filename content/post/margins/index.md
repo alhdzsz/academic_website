@@ -7,7 +7,7 @@ summary: This tutorial shows how to put margins output into a stargazer table.
 
 # Image
 image:
-  caption: 'Image credit: [**Unsplash/David Clode**](https://unsplash.com/photos/vec5yfUvCGs)'
+  caption: 'Image credit: [**Unsplash/Lazarescu Alexandra**](https://unsplash.com/photos/kxFBzUtLx00)'
   focal_point: ""
   preview_only: false
   
